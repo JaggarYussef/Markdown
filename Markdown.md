@@ -1,22 +1,38 @@
-# Unordered Presidents
-- George Washington
-- John Adams 
-- Thomas Jefferson
-## Ordered Presidents 
-1. George Washington
-2. John Adams
-3. Thomas Jefferson
+# Djager al-Yussef - Junior Web Developer trainee
 
-## Nested Presidents 
-1. American Presidents
-   - George Washington
-     - John Adams
+ I'm a former Computer Science student and translator. I like creative things and innovation 
 
-![American Pres] (https://lithub.com/we-have-always-loved-ranking-things-particularly-american-presidents/)
-[Read More](https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_Shttps://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States)
+enter Gif 
+### Suprising Skills 
+- I speak mulitple languages
+- I have different technique for snapping 
+- ??
+
+### Things I like the most 
+1. Family and friends 
+2. Being in the right place
+3. Happiness 
+
+### My Objectives: 
+
+By the end of this training I would like to be a well established developer who can code with ease. 
 
 
+### What I fear
+My fear for the forseeable future would be not being able to finish this training. 
 
-![Murica Fuck Yeah ](https://giphy.com/gifs/fifa-usa-eagle-bald-hXJ1MWMzY7Af32UIUD)
 
-Launch `Murica.letsGo();
+### I look forward 
+to finishing this training and where I will be in one yeaar 
+
+
+### My expectations of a team
+1. Taking responsability
+2. Friendliness 
+3. Teamwork
+
+Enter gif teamwork make dreams work
+
+
+### Favorite GIF
+Popeye kid 
