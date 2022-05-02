@@ -1,4 +1,4 @@
-# Djager al-Yussef - Junior Web Developer trainee
+# Djager al-Yussef - Junior Web Developer trainee :technologist:
 
  I'm a former Computer Science student and translator. I like creative things and innovation 
 
@@ -35,4 +35,4 @@ Enter gif teamwork make dreams work
 
 
 ### Favorite GIF
-Popeye kid 
+![Popeye Kid](https://media.giphy.com/media/13n7XeyIXEIrbG/giphy.gif)
