@@ -2,7 +2,8 @@
 
  I'm a former Computer Science student and translator. I like creative things and innovation 
 
-enter Gif 
+![Alright](https://media.giphy.com/media/edaeW86Tm7HS7FgGPk/giphy.gif)
+
 ### Suprising Skills 
 - I speak mulitple languages
 - I have different technique for snapping 
